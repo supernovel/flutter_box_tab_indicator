@@ -4,7 +4,7 @@ Box style tab indicator
 
 refer to https://github.com/vipulasri/flutter_bubble_tab_indicator
 
-<img src="example.gif" height=300>
+<img src="https://github.com/supernovel/flutter_box_tab_indicator/blob/master/example.gif" height=300>
 
 ## Getting Started
 
