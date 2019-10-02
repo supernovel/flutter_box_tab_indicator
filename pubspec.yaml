@@ -1,0 +1,16 @@
+name: box_tab_indicator
+description: Box style tab indicator.
+version: 0.1.0
+author: supernovel(ekfueh@naver.com)
+homepage: github.com/supernovel/box_tab_indicator
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
